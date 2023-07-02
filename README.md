@@ -15,9 +15,9 @@ The goal of this competition is to predict the survival of passengers on the Tit
 
 Install the required dependencies: `pip install pandas numpy matplotlib seaborn scikitlearn
 
-## Results
+### Results
 The logistic regression model achieved an accuracy score of 79% on the training data and 78% on the testing data.
 
-## Kaggle Competition Link
+### Kaggle Competition Link
 [Titanic - Machine Learning from Disaster]: (https://www.kaggle.com/competitions/titanic)
 

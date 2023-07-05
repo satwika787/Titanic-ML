@@ -13,7 +13,7 @@ The goal of this competition is to predict the survival of passengers on the Tit
 - seaborn
 - sklearn
 
-Install the required dependencies: `pip install pandas numpy matplotlib seaborn sklearn
+Install the required dependencies: pip install pandas numpy matplotlib seaborn sklearn
 
 ### Results
 The logistic regression model achieved an accuracy score of 79% on the training data and 78% on the testing data.
